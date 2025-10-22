@@ -10,7 +10,7 @@
   </samp>
 </div>
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fmatheusmoreira08&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FRanchoneetoo26&s=21&c=00aeff&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -112,5 +112,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranchoneetoo26/Ranchoneetoo26/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranchoneetoo26/Ranchoneetoo26/output/github-contribution-grid-snake.svg">
 </picture>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=110&section=footer"/>
