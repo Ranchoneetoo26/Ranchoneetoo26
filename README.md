@@ -17,7 +17,7 @@
 
 <div align="center">
 <img 
-  src="https://media.tenor.com/X8854xxuQ_EAAAAM/destroy-code-mad.gif"
+  src="https://tenor.com/pt-BR/view/c-omputy-gif-26825945"
   alt="Destroy Code Mad GIF" 
 />
 </div>
